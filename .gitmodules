@@ -1,0 +1,15 @@
+[submodule "Inquirer.js"]
+	path = Inquirer.js
+	url = git@github.com:SBoudrias/Inquirer.js.git
+[submodule "reakit"]
+	path = reakit
+	url = git@github.com:reakit/reakit.git
+[submodule "create-react-app"]
+	path = create-react-app
+	url = git@github.com:facebook/create-react-app.git
+[submodule "javascript"]
+	path = javascript
+	url = git@github.com:airbnb/javascript.git
+[submodule "babel"]
+	path = babel
+	url = git@github.com:babel/babel.git
