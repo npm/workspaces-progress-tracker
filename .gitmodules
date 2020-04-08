@@ -13,3 +13,6 @@
 [submodule "babel"]
 	path = babel
 	url = git@github.com:babel/babel.git
+[submodule "enzyme"]
+	path = enzyme
+	url = git@github.com:enzymejs/enzyme.git
