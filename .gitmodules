@@ -16,3 +16,6 @@
 [submodule "enzyme"]
 	path = enzyme
 	url = git@github.com:enzymejs/enzyme.git
+[submodule "opencensus-node"]
+	path = opencensus-node
+	url = git@github.com:census-instrumentation/opencensus-node.git
