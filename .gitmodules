@@ -19,3 +19,6 @@
 [submodule "opencensus-node"]
 	path = opencensus-node
 	url = git@github.com:census-instrumentation/opencensus-node.git
+[submodule "webpack-cli"]
+	path = webpack-cli
+	url = git@github.com:webpack/webpack-cli.git
