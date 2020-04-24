@@ -17,6 +17,7 @@ Setting up a bunch of repos using Lerna or Yarn/Pnpm workspaces and trying out a
 | **enzyme**            | Lerna                         | :x:                           | :white_check_mark:            | :white_check_mark:        | [notes](https://github.com/ruyadorno/enzyme/commit/7b5a0696717d511957a0d32fc83abdbc636642b1)      |
 | **Inquirer.js**       | Lerna + Yarn --use-workspaces | :white_check_mark:            |                               | :white_check_mark:        |           |
 | **opencensus-node**   | Lerna                         | :white_check_mark:            |                               | :white_check_mark:        | [changes](https://github.com/ruyadorno/opencensus-node/commit/bb237277657010e969f35a7f29108fa32162eedf)  |
+| **opentelemetry-js**  | Lerna                         | :x:                           |                               | :x:                       | [changes](https://github.com/ruyadorno/opentelemetry-js/commit/eb7cc68f1f1a6e26a6047fcccecbcd1a7dd4c5bb)  |
 | **reakit**            | Lerna + Yarn --use-workspaces | :x:                           | :white_check_mark:            | :white_check_mark:        | [changes](https://github.com/ruyadorno/reakit/commit/cbc82a44210f22e3fbb2f00c697d9c43cdc9773b)    |
 | **webpack-cli**       | Lerna + Yarn --use-workspaces | :white_check_mark:            |                               | :ballot_box_with_check:   | [changes](https://github.com/ruyadorno/webpack-cli/commit/140bd24f46673dad9e222652ad61499ed616f003)   |
 
