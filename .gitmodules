@@ -28,3 +28,6 @@
 [submodule "istanbuljs"]
 	path = istanbuljs
 	url = git@github.com:istanbuljs/istanbuljs.git
+[submodule "lerna"]
+	path = lerna
+	url = git@github.com:lerna/lerna.git
