@@ -25,3 +25,6 @@
 [submodule "opentelemetry-js"]
 	path = opentelemetry-js
 	url = git@github.com:open-telemetry/opentelemetry-js.git
+[submodule "istanbuljs"]
+	path = istanbuljs
+	url = git@github.com:istanbuljs/istanbuljs.git
